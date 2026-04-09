@@ -1,1 +1,1 @@
-# My-first-data-project
+# My first data project
