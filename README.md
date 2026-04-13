@@ -1,7 +1,7 @@
 # Sales Performance Analysis
 
 ## Overview
-A beginner-friendly data analysis project using Python, Pandas, and Matplotlib.
+A data analysis project using Python, Pandas, and Matplotlib.
 
 ## Dataset
 Sample sales data (5 products with units sold and price).
